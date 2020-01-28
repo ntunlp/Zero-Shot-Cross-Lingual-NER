@@ -5,8 +5,8 @@ Repository for [`Zero-Resource Cross-Lingual Named Entity Recognition`](https://
 # News 
 
 - Dataset released
-    - dataset for finnish (fi) and arabic (ar) is updated.
-    - the remaining dataset is from conll `en`, `es`, `de` and `nl`. They are available 
+    - dataset for finnish (fi) and arabic (ar) is updated. Please check [here](https://github.com/ntunlp/Zero-Shot-Cross-Lingual-NER/tree/master/ner_data)
+    - the remaining dataset is from conll `en`, `es`, `de` and `nl`. They are available in the respective source. 
 
 
 **Warning :** The full content of the repository is not yet updated.
@@ -47,15 +47,20 @@ This repository uses standard short form of the languages. Note: conll uses thre
 If you are using `refined` Finnish NER dataset please cite the following papers,
 
 ```
-@misc{bari2019zeroresource,
-    title={Zero-Resource Cross-Lingual Named Entity Recognition},
-    author={M Saiful Bari and Shafiq Joty and Prathyusha Jwalapuram},
-    year={2019},
-    eprint={1911.09812},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}
+@inproceedings{bari19,
+	Address     = {New York, USA},
+	Author      = {M Saiful Bari and Shafiq Joty and Prathyusha Jwalapuram},
+	Booktitle   = {Proceedings of the 34th AAAI Conference on Artificial Intelligence},
+	Numpages    = {},
+	Publisher   = {AAAI},
+	Series      = {AAAI '20},
+        pages       = {xx--xx},
+	Title       = {{Zero-Resource Cross-Lingual Named Entity Recognition}},
+	Year        = {2020},
+	url         = {}
 }
-
+```
+```
 @article{Ruokolainen_2019,
    title={A Finnish news corpus for named entity recognition},
    ISSN={1574-0218},
@@ -67,19 +72,22 @@ If you are using `refined` Finnish NER dataset please cite the following papers,
    year={2019},
    month={Aug}
 }
-
 ```
 
 If you are using `refined` Arabic NER dataset please cite the following papers,
 
 ```
-@misc{bari2019zeroresource,
-    title={Zero-Resource Cross-Lingual Named Entity Recognition},
-    author={M Saiful Bari and Shafiq Joty and Prathyusha Jwalapuram},
-    year={2019},
-    eprint={1911.09812},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}
+@inproceedings{bari19,
+	Address     = {New York, USA},
+	Author      = {M Saiful Bari and Shafiq Joty and Prathyusha Jwalapuram},
+	Booktitle   = {Proceedings of the 34th AAAI Conference on Artificial Intelligence},
+	Numpages    = {},
+	Publisher   = {AAAI},
+	Series      = {AAAI '20},
+        pages       = {xx--xx},
+	Title       = {{Zero-Resource Cross-Lingual Named Entity Recognition}},
+	Year        = {2020},
+	url         = {}
 }
 ```
 ```
