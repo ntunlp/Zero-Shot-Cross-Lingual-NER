@@ -5,8 +5,8 @@ Repository for [`Zero-Resource Cross-Lingual Named Entity Recognition`](https://
 # News 
 
 - Dataset released
-    - dataset for finnish (fi) and arabic (ar) is updated. Please check [here](https://github.com/ntunlp/Zero-Shot-Cross-Lingual-NER/tree/master/ner_data)
-    - the remaining dataset is from conll `en`, `es`, `de` and `nl`. They are available in the respective source. 
+    - dataset for finnish (fi) and arabic (ar) is updated. Please check [here](https://github.com/ntunlp/Zero-Shot-Cross-Lingual-NER/tree/master/ner_data).
+    - the remaining datasets are from conll `en`, `es`, `de` and `nl`. They are available in the respective source. 
 
 
 **Warning :** The full content of the repository is not yet updated.
