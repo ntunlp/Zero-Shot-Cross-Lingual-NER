@@ -37,7 +37,7 @@ This repository uses standard short form of the languages. Note: conll uses thre
 
 5. finnish (fi) : Adapted from [this](https://github.com/mpsilfve/finer-data) repository. However, they don't come in a form so that we can perform transfer learning experiments (from en conll NER dataset to fi dataset). We refactored the original source and corrected some tags manually for standardization.
 
-6. Arabic (ar) : Adapted from [here](http://www.cs.cmu.edu/~ark/ArabicNER/). However, they don't come in a form so that we have a proper train, dev, test split. Dataset comes with 28 manually annotated wikipedia articles. For train, dev and test split creation, we randomly select sentences from each of the article and add it to a train, dev and test split. Split size, train(~90%), dev(~10%), test(~10%). Few tags and/or tokens are manually altered for standardization so that we can perform trasfer learning experiments.
+6. Arabic (ar) : Adapted from [here](http://www.cs.cmu.edu/~ark/ArabicNER/). However, they don't come in a form so that we have a proper train, dev, test split. Dataset comes with 28 manually annotated wikipedia articles. For train, dev and test split creation, we randomly select sentences from each of the article and add it to a train, dev and test split. Split size, train(~90%), dev(~10%), test(~10%). Few tags and/or tokens are manually altered for standardization so that we can perform transfer learning experiments.
 
 
 
