@@ -9,11 +9,6 @@ Repository for [`Zero-Resource Cross-Lingual Named Entity Recognition`](https://
     - the remaining datasets are from conll `en`, `es`, `de` and `nl`. They are available in the respective source. 
 
 
-**Warning :** The full content of the repository is not yet updated. 
-Codes and pretrined model will be release in a few weeks ... 
-
-**Update :** Will be updating the codebase as soon as I got the licence. (delayed due to covid-19 scenario). In the mean time if you need any details please mail me from [here](https://sbmaruf.github.io/). I would love to help for any details. Sorry for the inconvenience. 
-
 ## Language short form
 
 | Language | Three letter | Standard |
